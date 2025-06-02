@@ -42,7 +42,7 @@ A beautifully designed React-based meal recipe application that fetches data fro
 
 3. Start the development server
    ```bash
-   npm run start
+   npm run dev
    ```
 
 4. Visit `http://localhost:3000` in your browser
